@@ -1,2 +1,2 @@
 # PrepcourseHenry
-Este es un repositorio del modulo de prueba de Henry
+Este es un proyecto de como crear y clonar un repositorio en github
